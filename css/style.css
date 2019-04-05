@@ -1,5 +1,15 @@
 /*This is a comment */
 
 p {
-  font-size: 16px; 
+  font-size: 1em; /* em defpends on the width of the letter m */
+  line-height: 1.5em
+}
+
+figcation {
+  /*font-weight: normal;*/
+  /*font-size: 0.75em;*/
+  /*line-height: 1.5em;*/
+  /*font-family: Georgia, "New Times Roman", serif;*/
+  font: normal 0.75em/1.5em Georgia,"New Times Roman", serif;
+  color: grey;
 }
