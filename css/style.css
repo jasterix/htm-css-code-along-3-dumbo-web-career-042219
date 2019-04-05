@@ -31,3 +31,7 @@ figcation {
 
 /*Descendant selector*/
 
+#logo h1 { 
+  /*only styles h1 if they're inside the element with id=logo*/
+  font-family: Georgia;
+}
