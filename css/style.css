@@ -57,8 +57,9 @@ figcation {
 }
 
 #details a:hover {
-  color: black;text-decoration: 
-  
+  color: black;
+  text-decoration: underline; 
 }
+
 
 
